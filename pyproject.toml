@@ -1,0 +1,7 @@
+[project]
+name = "genpark-structured-json-output-repair-and-schema-coercion-engine-skill"
+version = "1.0.0"
+description = "Repairs malformed LLM JSON outputs by stripping markdown fences and trailing commas while validating required schema keys"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
